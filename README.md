@@ -1,1 +1,1 @@
-# Social Media Backend using Fastapi
+Social Media Backend using Fastapi
